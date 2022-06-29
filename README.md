@@ -13,7 +13,7 @@ MovieQuizWebsite
 ## Est. Start Date
 Tuesday June 27, 2022
 ## Est. Finish Date
-Saturday July 18th, 2022
+Saturday, July 18th, 2022
 ## Submitted To
 ??
 ## Company
@@ -59,7 +59,7 @@ how much the "know" the movie.
 ## Purpose/Goals
 To demonstrate class **adv-ci-04-18-22**'s ability to construct a
 full-stack software project in a group setting using Agile methodology.
-## Obstables
+## Obstacles
 - Properly retrieving the *correct* data for a particular movie the user
 selected.
 - Format of the questions and how they would relevantly fit to the data
@@ -126,7 +126,7 @@ Essentially freemium..
 GNU Affero General Public License version 3
 
 
-### Proposal my be withdrawn if not accepted by
+### Proposal may be withdrawn if not accepted by
 2022-06-30
 ## Acceptance of Proposal
 n/a
