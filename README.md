@@ -34,6 +34,7 @@ tbf
 MovieQuiz Collective
 ## Contact Name(s)
 Michael "Cal" Krug @dissidenttux
+Mohamud Aynab @MohamudAynab
 tbf
 tbf
 tbf
