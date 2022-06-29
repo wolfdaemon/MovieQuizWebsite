@@ -33,10 +33,18 @@ MovieQuiz Collective
 ## "Company"
 MovieQuiz Collective
 ## Contact Name(s)
+<<<<<<< HEAD
 - Michael "Cal" Krug @dissidenttux
 - tbf
 - tbf
 - tbf
+=======
+Michael "Cal" Krug @dissidenttux
+Mohamud Aynab @MohamudAynab
+tbf
+tbf
+tbf
+>>>>>>> f66b7bf7fb7f75376a95330f0fd8d4071bd08363
 ## Contact Phones
 n/a
 ## Email
