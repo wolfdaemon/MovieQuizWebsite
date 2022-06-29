@@ -41,6 +41,7 @@ tbf
 n/a
 ## Email
 cal.krug@proton.me
+mfaynab88@gmail.com
 ## Address
 n/a
 
