@@ -36,12 +36,14 @@ MovieQuiz Collective
 <<<<<<< HEAD
 - Michael "Cal" Krug @dissidenttux
 - Mohamud Aynab @MohamudAynab
+- Quang Do @bambibi1994
 - tbd..
 ## Contact Phones
 n/a
 ## Email
 - cal.krug@proton.me
 - mfaynab88@gmail.com
+- bambibi_1994@yahoo.com.vn
 ## Address
 n/a
 
