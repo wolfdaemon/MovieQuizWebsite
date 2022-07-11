@@ -33,11 +33,10 @@ MovieQuiz Collective
 ## "Company"
 MovieQuiz Collective
 ## Contact Name(s)
-<<<<<<< HEAD
 - Michael "Cal" Krug @dissidenttux
 - Mohamud Aynab @MohamudAynab
 - Quang Do @bambibi1994
--Jarricka Smith @jjsmith1
+- Jarricka Smith @jjsmith1
 - tbd..
 ## Contact Phones
 n/a
@@ -45,7 +44,7 @@ n/a
 - cal.krug@proton.me
 - mfaynab88@gmail.com
 - bambibi_1994@yahoo.com.vn
--smithjarricka1121@gmail.com
+- smithjarricka1121@gmail.com
 ## Address
 n/a
 
