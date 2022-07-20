@@ -1,0 +1,106 @@
+.navbar {
+    min-width: 100%;
+    min-height: 80px;
+    height: auto;
+    max-height: 100px;
+    
+    background-color: #121619;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.navbar .leftside {
+    justify-content: flex-start;
+    flex-grow: 1;
+}
+
+.navbar #open .hiddenLinks {
+    display: inherit;
+    /* margin shorthand attributes: top, right, bottom, left */
+    margin: 3em 0em 3em 2em;
+}
+
+.navbar .hiddenLinks a {
+    text-decoration: none;
+    color:#61dafb;
+}
+
+.navbar .hiddenLinks a:hover {
+    color:white;
+}
+
+.navbar #close .hiddenLinks {
+    display: none;
+}
+
+.navbar #open .logo {
+    display: none;
+}
+
+.navbar .rightside {
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-grow: 4;
+    gap: 4em;
+}
+
+.navbar .rightside a {
+    text-decoration: none;
+    color:#61dafb;
+}
+.navbar .rightside a:hover {
+    color:white;
+}
+
+.navbar div.mobile-menu {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+.navbar div.mobile-menu button.burger-menu {
+    background-color: #121619;
+    color:#61dafb;
+    border:1px solid #61dafb;
+}
+
+.navbar div.leftside .logo {
+    height: 6em;
+    align-self:flex-start;
+}
+
+/* When the width of the screen is 768px (avg. mobile device), do this: */
+@media screen and (max-width: 768px) {
+
+    .navbar .leftside {
+        justify-content: flex-start;
+        flex-grow: 2  ;
+    }
+    
+    .navbar .rightside {
+        display: inline-flex;
+        align-items: center;
+        flex-grow: 1
+    }
+
+    .navbar .rightside a {
+        display: none;
+    }
+
+    .navbar div.mobile-menu {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar button.burger-menu {
+        justify-content: flex-end;
+    }
+
+    .hiddenLinks {
+        display: none;
+    }
+
+}
